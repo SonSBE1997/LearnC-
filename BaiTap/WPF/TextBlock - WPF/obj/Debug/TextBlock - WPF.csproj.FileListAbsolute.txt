@@ -1,0 +1,28 @@
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\bin\Debug\TextBlock - WPF.exe.config
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\bin\Debug\TextBlock - WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\bin\Debug\TextBlock - WPF.pdb
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.g.resources
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock___WPF.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.pdb
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\bin\Debug\TextBlock - WPF.exe.config
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.pdb
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\bin\Debug\TextBlock - WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\bin\Debug\TextBlock - WPF.pdb
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.g.resources
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock___WPF.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\TextBlock - WPF\obj\Debug\TextBlock - WPF.csproj.GenerateResource.Cache

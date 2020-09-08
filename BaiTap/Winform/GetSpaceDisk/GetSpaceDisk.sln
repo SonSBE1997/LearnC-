@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSpaceDisk", "GetSpaceDisk\GetSpaceDisk.csproj", "{49F3A013-E9F5-4ACB-B22F-A8AC07739686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F3A013-E9F5-4ACB-B22F-A8AC07739686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F3A013-E9F5-4ACB-B22F-A8AC07739686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F3A013-E9F5-4ACB-B22F-A8AC07739686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F3A013-E9F5-4ACB-B22F-A8AC07739686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Thread\bin\Debug\Thread.exe.config
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Thread\bin\Debug\Thread.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Thread\bin\Debug\Thread.pdb
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Thread\obj\Debug\Thread.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Thread\obj\Debug\Thread.pdb

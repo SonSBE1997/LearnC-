@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\Winform\KeyLogger\Key Logger\Key Logger\KeyLogger\bin\Debug\KeyLogger.exe.config
+D:\hoc tap\C#\BaiTap\Winform\KeyLogger\Key Logger\Key Logger\KeyLogger\bin\Debug\KeyLogger.exe
+D:\hoc tap\C#\BaiTap\Winform\KeyLogger\Key Logger\Key Logger\KeyLogger\bin\Debug\KeyLogger.pdb
+D:\hoc tap\C#\BaiTap\Winform\KeyLogger\Key Logger\Key Logger\KeyLogger\obj\Debug\KeyLogger.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\KeyLogger\Key Logger\Key Logger\KeyLogger\obj\Debug\KeyLogger.exe
+D:\hoc tap\C#\BaiTap\Winform\KeyLogger\Key Logger\Key Logger\KeyLogger\obj\Debug\KeyLogger.pdb

@@ -1,0 +1,27 @@
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\bin\Debug\Binding.exe.config
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\bin\Debug\Binding.exe
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\bin\Debug\Binding.pdb
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\Binding_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\Binding_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\Binding.g.resources
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\Binding.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\Binding.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\Binding.exe
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\Binding\obj\Debug\Binding.pdb
+D:\hoc tap\C#\BaiTap\WPF\Binding\bin\Debug\Binding.exe.config
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding.exe
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding.pdb
+D:\hoc tap\C#\BaiTap\WPF\Binding\bin\Debug\Binding.exe
+D:\hoc tap\C#\BaiTap\WPF\Binding\bin\Debug\Binding.pdb
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding.g.resources
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\Binding\obj\Debug\Binding.csproj.GenerateResource.Cache

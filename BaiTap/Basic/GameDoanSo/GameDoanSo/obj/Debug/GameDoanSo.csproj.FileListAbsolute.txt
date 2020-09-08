@@ -1,0 +1,15 @@
+D:\C#\BaiTap\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe.config
+D:\C#\BaiTap\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe
+D:\C#\BaiTap\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.pdb
+D:\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csprojResolveAssemblyReference.cache
+D:\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.exe
+D:\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.pdb
+E:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe.config
+E:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.exe
+E:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.pdb
+E:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe
+E:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.pdb
+E:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe.config
+D:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.exe
+D:\hoc tap\C#\BaiTap\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.pdb

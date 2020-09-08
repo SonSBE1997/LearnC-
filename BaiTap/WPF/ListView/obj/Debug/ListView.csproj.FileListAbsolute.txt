@@ -1,0 +1,14 @@
+D:\hoc tap\C#\BaiTap\WPF\ListView\bin\Debug\ListView.exe.config
+D:\hoc tap\C#\BaiTap\WPF\ListView\bin\Debug\ListView.exe
+D:\hoc tap\C#\BaiTap\WPF\ListView\bin\Debug\ListView.pdb
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView.g.resources
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView.exe
+D:\hoc tap\C#\BaiTap\WPF\ListView\obj\Debug\ListView.pdb

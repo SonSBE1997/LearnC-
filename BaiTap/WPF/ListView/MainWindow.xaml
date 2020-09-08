@@ -1,0 +1,74 @@
+﻿<Window x:Class="ListView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="525">
+    <StackPanel>
+        <ListView x:Name="li" VerticalAlignment="Top" Height="150">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="{Binding Content}" Width="75" Height="30"></Button>
+                        <TextBlock Text="{Binding Text}" TextAlignment="Center" Width="100" Height="20"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <ListView x:Name="li1" VerticalAlignment="Top" Height="150">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="150" DisplayMemberBinding="{Binding Name}"></GridViewColumn>
+                    <GridViewColumn Header="Age" Width="75" DisplayMemberBinding="{Binding Age}"></GridViewColumn>
+                    <GridViewColumn Header="Email" Width="120" DisplayMemberBinding="{Binding Email}"></GridViewColumn>
+                    <GridViewColumn Header="Province" Width="120" DisplayMemberBinding="{Binding Province}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="li2" VerticalAlignment="Top" Height="150">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="150" DisplayMemberBinding="{Binding Name}"></GridViewColumn>
+                    <GridViewColumn Header="Age" Width="75" DisplayMemberBinding="{Binding Age}"></GridViewColumn>
+                    <GridViewColumn Header="Email" Width="120" DisplayMemberBinding="{Binding Email}"></GridViewColumn>
+                    <GridViewColumn Header="Province" Width="120" DisplayMemberBinding="{Binding Province}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+            <!--<ListView.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}" FontSize="14"></TextBlock>
+                        </DataTemplate>
+                    </GroupStyle.HeaderTemplate>
+                </GroupStyle>
+            </ListView.GroupStyle>-->
+            <ListView.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.ContainerStyle>
+                        <Style TargetType="GroupItem">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate>
+                                        <Expander IsExpanded="True" ExpandDirection="Down">
+                                            <Expander.Header>
+                                                <StackPanel Orientation="Horizontal">
+                                                    <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"></TextBlock>
+                                                    <TextBlock Text="{Binding ItemCount}" FontSize="14" Foreground="OrangeRed" Margin="10,0,10,0" HorizontalAlignment="Center"></TextBlock>
+                                                    <TextBlock Text="items" FontSize="14" Foreground="LightBlue" FontStyle="Italic" HorizontalAlignment="Right"></TextBlock>
+                                                </StackPanel>
+                                            </Expander.Header>
+                                            <ItemsPresenter/>
+                                        </Expander>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </GroupStyle.ContainerStyle>
+                </GroupStyle>
+            </ListView.GroupStyle>
+        </ListView>
+    </StackPanel>
+</Window>

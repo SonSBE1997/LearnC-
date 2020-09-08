@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\Demo1\Console_Demo1\Console_Demo1\bin\Debug\Console_Demo1.exe.config
+D:\hoc tap\C#\BaiTap\Demo1\Console_Demo1\Console_Demo1\bin\Debug\Console_Demo1.exe
+D:\hoc tap\C#\BaiTap\Demo1\Console_Demo1\Console_Demo1\bin\Debug\Console_Demo1.pdb
+D:\hoc tap\C#\BaiTap\Demo1\Console_Demo1\Console_Demo1\obj\Debug\Console_Demo1.exe
+D:\hoc tap\C#\BaiTap\Demo1\Console_Demo1\Console_Demo1\obj\Debug\Console_Demo1.pdb
+D:\hoc tap\C#\BaiTap\Demo1\Console_Demo1\Console_Demo1\obj\Debug\Console_Demo1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Delegate\bin\Debug\Delegate.exe.config
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Delegate\bin\Debug\Delegate.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Delegate\bin\Debug\Delegate.pdb
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Delegate\obj\Debug\Delegate.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Delegate\obj\Debug\Delegate.pdb

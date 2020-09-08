@@ -1,0 +1,6 @@
+D:\C#\BaiTap\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\C#\BaiTap\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\C#\BaiTap\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\C#\BaiTap\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojResolveAssemblyReference.cache
+D:\C#\BaiTap\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\C#\BaiTap\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

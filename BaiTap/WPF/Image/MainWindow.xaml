@@ -1,0 +1,17 @@
+﻿<Window x:Class="Image.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Image"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid x:Name="grid" Width="386" Height="259" Margin="30,7,87,53">
+            <Border BorderBrush="Magenta" BorderThickness="2">
+                <Image x:Name="img" Source="D:\ảnh\[SIEU HOT] CUTE GIRLS 2\Cute Girls P2 (78).jpg" ></Image>
+            </Border>
+        </Grid>
+        <Button x:Name="button" Click="button_Click"   Content="Replace Image" FontSize="20" HorizontalAlignment="Center"  VerticalAlignment="Bottom" Margin="309,0,75,11"/>
+    </Grid>
+</Window>

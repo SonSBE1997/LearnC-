@@ -1,0 +1,5 @@
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Collection\bin\Debug\Collection.exe.config
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Collection\bin\Debug\Collection.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Collection\bin\Debug\Collection.pdb
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Collection\obj\Debug\Collection.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Collection\obj\Debug\Collection.pdb

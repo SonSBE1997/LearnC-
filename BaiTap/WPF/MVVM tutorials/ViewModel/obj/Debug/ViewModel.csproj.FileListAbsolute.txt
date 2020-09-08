@@ -1,0 +1,16 @@
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\bin\Debug\ViewModel.exe.config
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\bin\Debug\ViewModel.exe
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\bin\Debug\ViewModel.pdb
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\bin\Debug\Model.exe
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\bin\Debug\Model.pdb
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel.g.resources
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel.exe
+D:\hoc tap\C#\BaiTap\WPF\MVVM tutorials\ViewModel\obj\Debug\ViewModel.pdb

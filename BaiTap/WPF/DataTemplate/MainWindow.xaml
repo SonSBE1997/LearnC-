@@ -1,0 +1,59 @@
+﻿<Window x:Class="DataTemplate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataTemplate"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="130"></RowDefinition>
+            <RowDefinition Height="130"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" VerticalAlignment="Top">
+            <Grid.Resources>
+                <ControlTemplate x:Key="btn">
+                    <StackPanel >
+                        <Image Source="D:/ảnh/[SIEU HOT] CUTE GIRLS 2/Cute Girls P2 (78).jpg"  Height="75"></Image>
+                        <TextBlock Text="{Binding}" TextAlignment="Center"></TextBlock>
+                    </StackPanel>
+                </ControlTemplate>
+                <Style TargetType="Button">
+                    <Setter Property="Height" Value="100"></Setter>
+                    <Setter Property="Width" Value="100"></Setter>
+                    <Setter Property="Background" Value="Aqua"></Setter>
+                </Style>
+            </Grid.Resources>
+            <Button x:Name="btn1" HorizontalAlignment="Left" Template="{StaticResource btn}"></Button>
+            <Button x:Name="btn2"  HorizontalAlignment="Right" Template="{StaticResource btn}"/>
+            <Button Click="Button_Click" Height="30" Content="click" HorizontalAlignment="Center"></Button>
+        </Grid>
+        
+        
+        <Grid Grid.Row="1" VerticalAlignment="Top">
+            <Grid.Resources>
+                <DataTemplate x:Key="button">
+                    <StackPanel>
+                        <Image Source="D:/ảnh/[SIEU HOT] CUTE GIRLS 2/Cute Girls P2 (78).jpg"  Height="75"></Image>
+                        <TextBlock Text="{Binding}"  Foreground="Red" TextAlignment="Center"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+                <Style TargetType="Button">
+                    <Setter Property="Height" Value="100"></Setter>
+                    <Setter Property="Width" Value="100"></Setter>
+                </Style>
+            </Grid.Resources>
+            <Button x:Name="btn3"  HorizontalAlignment="Left" ContentTemplate="{StaticResource button}" Click="btn3_Click" ></Button>
+            <Button x:Name="btn4"  HorizontalAlignment="Right" ContentTemplate="{StaticResource button}"/>
+            <Button Click="Button_Click_1" Height="30" Content="click" HorizontalAlignment="Center"></Button>
+        </Grid>
+        
+        
+        <Grid Grid.Row="3" VerticalAlignment="Top">
+            <Button x:Name="btn5"  HorizontalAlignment="Left" ContentTemplate="{StaticResource myButton}" ></Button>
+            <Button x:Name="btn6"  HorizontalAlignment="Right" ContentTemplate="{StaticResource myButton}"/>
+        </Grid>
+    </Grid>
+</Window>

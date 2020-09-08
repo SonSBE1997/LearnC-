@@ -1,0 +1,14 @@
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\bin\Debug\Canvas WPF.exe.config
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\bin\Debug\Canvas WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\bin\Debug\Canvas WPF.pdb
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas WPF.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas WPF_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas WPF_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas WPF.g.resources
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas_WPF.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas WPF.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\Canvas WPF\obj\Debug\Canvas WPF.pdb

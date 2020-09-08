@@ -1,0 +1,9 @@
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\bin\Debug\CrossThread.exe.config
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\bin\Debug\CrossThread.exe
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\bin\Debug\CrossThread.pdb
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\obj\Debug\CrossThread.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\obj\Debug\CrossThread.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\obj\Debug\CrossThread.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\obj\Debug\CrossThread.exe
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\obj\Debug\CrossThread.pdb
+D:\hoc tap\C#\BaiTap\Winform\Xử lý Cross Threading\CrossThread\CrossThread\obj\Debug\CrossThread.Form1.resources

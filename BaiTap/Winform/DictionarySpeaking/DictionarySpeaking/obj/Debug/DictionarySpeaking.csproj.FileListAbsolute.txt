@@ -1,0 +1,11 @@
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\bin\Debug\DictionarySpeaking.exe.config
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\bin\Debug\DictionarySpeaking.exe
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\bin\Debug\DictionarySpeaking.pdb
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\bin\Debug\aa\DictionarySpeaking.resources.dll
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\obj\Debug\DictionarySpeaking.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\obj\Debug\DictionarySpeaking.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\obj\Debug\DictionarySpeaking.Form1.aa.resources
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\obj\Debug\DictionarySpeaking.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\obj\Debug\aa\DictionarySpeaking.resources.dll
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\obj\Debug\DictionarySpeaking.exe
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\DictionarySpeaking\obj\Debug\DictionarySpeaking.pdb

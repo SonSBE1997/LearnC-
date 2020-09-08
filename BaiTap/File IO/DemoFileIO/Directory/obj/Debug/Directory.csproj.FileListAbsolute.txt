@@ -1,0 +1,5 @@
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\Directory\bin\Debug\Directory.exe.config
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\Directory\bin\Debug\Directory.exe
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\Directory\bin\Debug\Directory.pdb
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\Directory\obj\Debug\Directory.exe
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\Directory\obj\Debug\Directory.pdb

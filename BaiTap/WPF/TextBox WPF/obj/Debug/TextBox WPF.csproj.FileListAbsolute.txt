@@ -1,0 +1,14 @@
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\bin\Debug\TextBox WPF.exe.config
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\bin\Debug\TextBox WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\bin\Debug\TextBox WPF.pdb
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox WPF_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox WPF_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox WPF.g.resources
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox_WPF.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox WPF.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox WPF.exe
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox WPF.pdb
+D:\hoc tap\C#\BaiTap\WPF\Button WPF\TextBox WPF\obj\Debug\TextBox WPF.csprojResolveAssemblyReference.cache

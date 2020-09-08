@@ -1,0 +1,11 @@
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\bin\Debug\FilePDFDemo.exe.config
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\bin\Debug\FilePDFDemo.exe
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\bin\Debug\FilePDFDemo.pdb
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\obj\Debug\FilePDFDemo.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\obj\Debug\FilePDFDemo.Form1.resources
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\obj\Debug\FilePDFDemo.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\obj\Debug\FilePDFDemo.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\obj\Debug\FilePDFDemo.exe
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\obj\Debug\FilePDFDemo.pdb
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\bin\Debug\itextsharp.dll
+D:\hoc tap\C#\BaiTap\PDF File\FilePDFDemo\FilePDFDemo\bin\Debug\itextsharp.xml

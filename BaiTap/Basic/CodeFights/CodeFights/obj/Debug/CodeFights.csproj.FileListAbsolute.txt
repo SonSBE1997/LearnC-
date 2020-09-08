@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\Basic\CodeFights\CodeFights\bin\Debug\CodeFights.exe.config
+D:\hoc tap\C#\BaiTap\Basic\CodeFights\CodeFights\bin\Debug\CodeFights.exe
+D:\hoc tap\C#\BaiTap\Basic\CodeFights\CodeFights\bin\Debug\CodeFights.pdb
+D:\hoc tap\C#\BaiTap\Basic\CodeFights\CodeFights\obj\Debug\CodeFights.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Basic\CodeFights\CodeFights\obj\Debug\CodeFights.exe
+D:\hoc tap\C#\BaiTap\Basic\CodeFights\CodeFights\obj\Debug\CodeFights.pdb

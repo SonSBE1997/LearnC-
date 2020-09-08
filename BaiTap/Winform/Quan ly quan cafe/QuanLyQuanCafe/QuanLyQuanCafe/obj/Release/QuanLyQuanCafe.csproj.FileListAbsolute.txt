@@ -1,0 +1,14 @@
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.frmAccount.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.frmAdmin.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.frmLogin.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.frmTableManager.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
+D:\D_partition\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+D:\D_partition\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+D:\D_partition\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb

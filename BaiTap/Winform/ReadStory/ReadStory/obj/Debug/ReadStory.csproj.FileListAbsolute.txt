@@ -1,0 +1,12 @@
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\bin\Debug\ReadStory.exe.config
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\bin\Debug\ReadStory.exe
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\bin\Debug\ReadStory.pdb
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\obj\Debug\ReadStory.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\obj\Debug\ReadStory.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\obj\Debug\ReadStory.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\obj\Debug\ReadStory.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\obj\Debug\ReadStory.exe
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\obj\Debug\ReadStory.pdb
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\obj\Debug\ReadStory.ReadFile.resources
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\bin\Debug\itextsharp.dll
+D:\hoc tap\C#\BaiTap\Winform\ReadStory\ReadStory\bin\Debug\itextsharp.xml

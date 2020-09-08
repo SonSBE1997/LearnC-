@@ -1,0 +1,6 @@
+D:\C#\BaiTap\SearchDictionary\SearchDictionary\bin\Debug\SearchDictionary.exe.config
+D:\C#\BaiTap\SearchDictionary\SearchDictionary\bin\Debug\SearchDictionary.exe
+D:\C#\BaiTap\SearchDictionary\SearchDictionary\bin\Debug\SearchDictionary.pdb
+D:\C#\BaiTap\SearchDictionary\SearchDictionary\obj\Debug\SearchDictionary.csprojResolveAssemblyReference.cache
+D:\C#\BaiTap\SearchDictionary\SearchDictionary\obj\Debug\SearchDictionary.exe
+D:\C#\BaiTap\SearchDictionary\SearchDictionary\obj\Debug\SearchDictionary.pdb

@@ -1,0 +1,6 @@
+D:\C#\BaiTap\TestClass\TestClass\bin\Debug\TestClass.exe.config
+D:\C#\BaiTap\TestClass\TestClass\bin\Debug\TestClass.exe
+D:\C#\BaiTap\TestClass\TestClass\bin\Debug\TestClass.pdb
+D:\C#\BaiTap\TestClass\TestClass\obj\Debug\TestClass.csprojResolveAssemblyReference.cache
+D:\C#\BaiTap\TestClass\TestClass\obj\Debug\TestClass.exe
+D:\C#\BaiTap\TestClass\TestClass\obj\Debug\TestClass.pdb

@@ -1,0 +1,11 @@
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\bin\Debug\ReadFilePDFDocument.exe.config
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\bin\Debug\ReadFilePDFDocument.exe
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\bin\Debug\ReadFilePDFDocument.pdb
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\bin\Debug\itextsharp.dll
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\bin\Debug\itextsharp.xml
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\obj\Debug\ReadFilePDFDocument.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\obj\Debug\ReadFilePDFDocument.Form1.resources
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\obj\Debug\ReadFilePDFDocument.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\obj\Debug\ReadFilePDFDocument.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\obj\Debug\ReadFilePDFDocument.exe
+D:\hoc tap\C#\BaiTap\File IO\ReadFilePDFDocument\ReadFilePDFDocument\obj\Debug\ReadFilePDFDocument.pdb

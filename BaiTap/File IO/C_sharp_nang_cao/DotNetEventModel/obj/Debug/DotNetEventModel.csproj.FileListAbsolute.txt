@@ -1,0 +1,5 @@
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\DotNetEventModel\bin\Debug\DotNetEventModel.exe.config
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\DotNetEventModel\bin\Debug\DotNetEventModel.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\DotNetEventModel\bin\Debug\DotNetEventModel.pdb
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\DotNetEventModel\obj\Debug\DotNetEventModel.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\DotNetEventModel\obj\Debug\DotNetEventModel.pdb

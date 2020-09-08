@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\ExtensionMethod\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

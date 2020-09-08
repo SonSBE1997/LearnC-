@@ -1,0 +1,8 @@
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+D:\hoc tap\C#\BaiTap\Winform\DictionarySpeaking\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb

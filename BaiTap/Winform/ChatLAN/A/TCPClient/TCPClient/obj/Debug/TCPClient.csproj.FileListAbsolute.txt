@@ -1,0 +1,2 @@
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\A\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\D_partition\hoc tap\C#\BaiTap\Winform\ChatLAN\A\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config

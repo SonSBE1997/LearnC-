@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Events\bin\Debug\Events.exe.config
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Events\bin\Debug\Events.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Events\bin\Debug\Events.pdb
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Events\obj\Debug\Events.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Events\obj\Debug\Events.pdb

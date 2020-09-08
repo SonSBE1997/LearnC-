@@ -1,0 +1,12 @@
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\bin\Debug\TatMay.exe.config
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\bin\Debug\TatMay.exe
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\bin\Debug\TatMay.pdb
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\obj\Debug\TatMay.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\obj\Debug\TatMay.Form1.resources
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\obj\Debug\TatMay.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\obj\Debug\TatMay.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\obj\Debug\TatMay.exe
+D:\hoc tap\C#\BaiTap\TatMayTinh\TatMay\TatMay\obj\Debug\TatMay.pdb
+D:\hoc tap\C#\BaiTap\Winform\TatMay\TatMay\bin\Debug\TatMay.exe.config
+D:\hoc tap\C#\BaiTap\Winform\TatMay\TatMay\obj\Debug\TatMay.exe
+D:\hoc tap\C#\BaiTap\Winform\TatMay\TatMay\obj\Debug\TatMay.pdb

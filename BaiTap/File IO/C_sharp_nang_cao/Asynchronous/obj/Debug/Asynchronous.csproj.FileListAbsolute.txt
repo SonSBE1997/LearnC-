@@ -1,0 +1,5 @@
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Asynchronous\bin\Debug\Asynchronous.exe.config
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Asynchronous\bin\Debug\Asynchronous.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Asynchronous\bin\Debug\Asynchronous.pdb
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Asynchronous\obj\Debug\Asynchronous.exe
+D:\hoc tap\C#\BaiTap\File IO\C_sharp_nang_cao\Asynchronous\obj\Debug\Asynchronous.pdb

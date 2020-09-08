@@ -1,0 +1,14 @@
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\bin\Debug\DataTemplate.exe.config
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\bin\Debug\DataTemplate.exe
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\bin\Debug\DataTemplate.pdb
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\DataTemplate_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\DataTemplate_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\DataTemplate.g.resources
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\DataTemplate.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\DataTemplate.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\DataTemplate.exe
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\DataTemplate.pdb
+D:\hoc tap\C#\BaiTap\WPF\DataTemplate\obj\Debug\App.baml

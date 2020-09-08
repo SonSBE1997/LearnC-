@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\DemoFileIO\bin\Debug\DemoFileIO.exe.config
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\DemoFileIO\bin\Debug\DemoFileIO.exe
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\DemoFileIO\bin\Debug\DemoFileIO.pdb
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\DemoFileIO\obj\Debug\DemoFileIO.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\DemoFileIO\obj\Debug\DemoFileIO.exe
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\DemoFileIO\obj\Debug\DemoFileIO.pdb

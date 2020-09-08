@@ -1,0 +1,12 @@
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmLogin.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmTableManager.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmAccount.resources
+D:\hoc tap\C#\BaiTap\Winform\Quan ly quan cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmAdmin.resources

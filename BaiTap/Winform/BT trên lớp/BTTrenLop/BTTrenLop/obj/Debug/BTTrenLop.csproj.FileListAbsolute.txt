@@ -1,0 +1,35 @@
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.exe.config
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.exe
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.pdb
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.exe
+D:\hoc tap\C#\BaiTap\Winform\QuanLyRapChieuPhim\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.pdb
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.exe.config
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.exe
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.pdb
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.exe
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.pdb
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.dll
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.SqlServer.dll
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.xml
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.SqlServer.xml
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.exe.config
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.exe
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.pdb
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.exe
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\bin\Debug\BTTrenLop.pdb
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.dll
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.SqlServer.dll
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.xml
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\bin\Debug\EntityFramework.SqlServer.xml
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\BT trên lớp\BTTrenLop\BTTrenLop\obj\Debug\BTTrenLop.csproj.GenerateResource.Cache

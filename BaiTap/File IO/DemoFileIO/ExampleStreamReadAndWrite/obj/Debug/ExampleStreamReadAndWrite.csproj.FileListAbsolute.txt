@@ -1,0 +1,6 @@
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\ExampleStreamReadAndWrite\bin\Debug\ExampleStreamReadAndWrite.exe.config
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\ExampleStreamReadAndWrite\bin\Debug\ExampleStreamReadAndWrite.exe
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\ExampleStreamReadAndWrite\bin\Debug\ExampleStreamReadAndWrite.pdb
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\ExampleStreamReadAndWrite\obj\Debug\ExampleStreamReadAndWrite.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\ExampleStreamReadAndWrite\obj\Debug\ExampleStreamReadAndWrite.exe
+D:\hoc tap\C#\BaiTap\File IO\DemoFileIO\ExampleStreamReadAndWrite\obj\Debug\ExampleStreamReadAndWrite.pdb

@@ -1,0 +1,14 @@
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\bin\Debug\Command - Implementing.exe.config
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\bin\Debug\Command - Implementing.exe
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\bin\Debug\Command - Implementing.pdb
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command - Implementing.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\MainWindow.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\App.g.cs
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command - Implementing_MarkupCompile.cache
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command - Implementing_MarkupCompile.lref
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\MainWindow.baml
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command - Implementing.g.resources
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command___Implementing.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command - Implementing.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command - Implementing.exe
+D:\hoc tap\C#\BaiTap\WPF\Command - Implementing\obj\Debug\Command - Implementing.pdb

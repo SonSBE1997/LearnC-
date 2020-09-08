@@ -1,0 +1,30 @@
+﻿<Window x:Class="CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid>
+            <CheckBox Content="Is Male?"  Width="100" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30" ></CheckBox>
+            <RadioButton Content="Other"></RadioButton>
+        </Grid>
+        <Grid  Cursor="Hand" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="100">
+            <ScrollViewer>
+                <StackPanel>
+                    <RadioButton x:Name="rbtnC" Content="C/C++"></RadioButton>
+                    <RadioButton Content="Java" Padding="4,-1,0,0"></RadioButton>
+                    <RadioButton Content=".Net"></RadioButton>
+                    <RadioButton Content="SQL"></RadioButton>
+                    <RadioButton Content="MySQl" Focusable="False" ></RadioButton>
+                    <RadioButton Content="C# .Net"></RadioButton>
+                    <RadioButton Content="MongoDB"></RadioButton>
+                    <RadioButton Content="JS"></RadioButton>
+                    <RadioButton Content="PHP"></RadioButton>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>

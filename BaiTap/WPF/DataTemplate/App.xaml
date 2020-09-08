@@ -1,0 +1,18 @@
+﻿<Application x:Class="DataTemplate.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataTemplate"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate x:Key="myButton">
+            <StackPanel>
+                <Image Source="{Binding ImageSource}"  Height="75"></Image>
+                <TextBlock Text="{Binding Content}"  Foreground="Red" TextAlignment="Center"></TextBlock>
+            </StackPanel>
+        </DataTemplate>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="100"></Setter>
+            <Setter Property="Width" Value="100"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,8 @@
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\bin\Debug\GetSpaceDisk.exe.config
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\bin\Debug\GetSpaceDisk.exe
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\bin\Debug\GetSpaceDisk.pdb
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\obj\Debug\GetSpaceDisk.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\obj\Debug\GetSpaceDisk.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\obj\Debug\GetSpaceDisk.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\obj\Debug\GetSpaceDisk.exe
+D:\hoc tap\C#\BaiTap\Winform\GetSpaceDisk\GetSpaceDisk\obj\Debug\GetSpaceDisk.pdb
